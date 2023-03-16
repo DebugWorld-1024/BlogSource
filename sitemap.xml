@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://debugworld.me/tags/index.html</loc>
+    <loc>https://debugworld.me/about/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://debugworld.me/about/index.html</loc>
+    <loc>https://debugworld.me/tags/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
     
@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://debugworld.me/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,35 +84,35 @@
   
   <url>
     <loc>https://debugworld.me/tags/PyPI/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://debugworld.me/tags/Python/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://debugworld.me/tags/Hexo/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://debugworld.me/tags/%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://debugworld.me/tags/NexT/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -121,21 +121,21 @@
   
   <url>
     <loc>https://debugworld.me/categories/PyPI/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://debugworld.me/categories/Hexo/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://debugworld.me/categories/Hexo/NexT/</loc>
-    <lastmod>2023-03-15</lastmod>
+    <lastmod>2023-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
